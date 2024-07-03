@@ -1,5 +1,5 @@
 # DataAnalysisCollection
-Collection of my work in Python Jupyter notebook format.
+Collection of my work in Python Jupyter notebook format, that is easy to read on the web.
 
 CONTENT:
 1. Bayesian folder:
