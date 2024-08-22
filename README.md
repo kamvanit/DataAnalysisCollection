@@ -7,3 +7,4 @@ CONTENT:
 
 2. Inverse transform sampling
 3. Basic Neural Network 
+4. SIR model - a simple simulation for a spread of infectious diseases
